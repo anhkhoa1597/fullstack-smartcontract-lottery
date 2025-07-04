@@ -1,6 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/anhkhoa1597/smartcontract-lottery
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/anhkhoa1597/nextjs-smartcontract-lottery
